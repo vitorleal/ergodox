@@ -2,4 +2,4 @@
 
 My Erggodox Keyboard Layout
 
-[layout](https://configure.ergodox-ez.com/layouts/EONG/latest/0)
+[layout](https://configure.ergodox-ez.com/layouts/YMLJ/latest/0)
